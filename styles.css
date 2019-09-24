@@ -4,3 +4,13 @@
 #navbarlist li {
     display:inline;
 }
+#navbarlist {
+    width: 1750px;
+    margin: 20px;
+    border: 20px solid rgb(21, 21, 82);
+  }
+
+  #maristimg {
+      width:20px;
+      height:15px;
+  }
