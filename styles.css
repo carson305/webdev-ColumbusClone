@@ -4,3 +4,16 @@
 #navbarlist li {
     display:inline;
 }
+#navbarlist {
+    width: 1750px;
+    margin: 20px;
+    border: 20px solid #10243B;
+  }
+
+ #hero {
+     background-image: url(images/graduation.jpg);
+     background-repeat: none;
+     background-size: cover;
+     height: 100vh;
+     width: 100vw;
+ }
