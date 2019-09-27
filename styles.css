@@ -10,10 +10,6 @@
     padding: 10px;
   
        
-
-   
-
-
         
 }
 
@@ -34,3 +30,34 @@ nav {
      height: 100vh;
      width: 100vw;
  }
+
+ #explorecchs {
+     width: 100vw;
+     height: 319px;
+ }
+ #exploreheader {
+     width: 100vw;
+     height: 81px;
+     background:firebrick;
+     text-align: center;
+ }
+#explore section{
+    width: 100vw;
+    height: 319px;
+    background-color:slateblue;
+}
+.explorebox{
+    height: 315px;
+    width: 25%;
+    background-color: peru;
+    float: left;
+}
+#hurricane {
+    background-image: url(patriotsplaza.jpg);
+    background-position: cover;
+    background-size: cover;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
