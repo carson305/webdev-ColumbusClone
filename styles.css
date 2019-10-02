@@ -126,3 +126,42 @@ background-color:#10243B;
     padding-top: 3.5%;
     padding-left: 3.5%;
 }
+
+
+/* ----------------------------------------------   CCHS Glance    --------------------------------------------- */
+
+#glancesection{
+    height: 500px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+
+#glanceheader{
+    height: 150px;
+    width: 100%;
+    background-color: peru;
+}
+
+
+#glancecontent{
+    height: 350px;
+    width: 100%;
+    background-color: crimson;
+    display: inline-block;
+}
+
+.glancebox{
+    height: 320px;
+    width: 23%;
+    background-color: royalblue;
+    margin: 5px;
+}
+
+.left{
+    float: left;
+}
+
+#teaching{
+    height: 50px;
+    width: 50px;
+}
