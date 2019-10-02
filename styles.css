@@ -133,28 +133,33 @@ background-color:#10243B;
 #glancesection{
     height: 500px;
     width: 100%;
-    background-color: yellowgreen;
+    background-color: #10243B;
+    color: #aaa;
+    text-align:center;
+
 }
 
 #glanceheader{
     height: 150px;
     width: 100%;
-    background-color: peru;
+    background-color: white;
+    text-align: center;
 }
 
 
 #glancecontent{
     height: 350px;
     width: 100%;
-    background-color: crimson;
+    background-color: white;
     display: inline-block;
 }
 
 .glancebox{
     height: 320px;
     width: 23%;
-    background-color: royalblue;
+    background-color: white;
     margin: 5px;
+    border: 5px;
 }
 
 .left{
@@ -164,4 +169,14 @@ background-color:#10243B;
 #teaching{
     height: 50px;
     width: 50px;
+}
+#glancesection img{
+    position: relative;
+    height: 275px;
+    width:100%;
+}
+#collegecontent{
+    position: relative;
+
+
 }
